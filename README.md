@@ -1,5 +1,5 @@
 # Role Base Access Control (RBAC)
-This project aimed at managing different user access to endpoints or API's in the backend using expressJS
+This project aimed at managing different user access to endpoints or API's in the backend using expressJS. How to use express sessions, and using sessions to persist login after server reboot (using Mongo store), validating user input from the server side and redirect to same page after login.
 
 ## Technologies Used
 - ExpressJS
@@ -27,12 +27,7 @@ https://role-access-control.onrender.com
 
 - Roles(admin, moderator, client)
 - Authorization(admin, moderator and user routes)
-- How to use express sessions
-- Using sessions to persist loginafter server reboot(using Mongo store)
-- Redirectto same page after login
-- Validatinguser input server side
-- Flash messages
-- Handling HTTP error(ex: 404, etc)
+
 
 
 ## ScreenShot
@@ -42,5 +37,6 @@ https://role-access-control.onrender.com
 
 ## Credits
 
-- https://zeet.co/r/yourstruly
+
+- Mafia codes (https://www.youtube.com/watch?v=vzgpjWZvxLk&list=PLdHg5T0SNpN2Tw-PL7dvwLQS6mx4Z5PH9&index=13)
 
